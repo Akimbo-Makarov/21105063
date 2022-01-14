@@ -2,20 +2,30 @@ Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (
 Type "help", "copyright", "credits" or "license()" for more information.
 
 ==== RESTART: C:\Users\hitin\Documents\GitHub\21105063\assign_1_21105063.py ====
-Enter Your Number Here: 79
-79
-Enter Your Number Here: 80
-80
+ASSIGNMENT 1 
+
+PROGRAM 1 
+
+Enter Your Number Here: 70
+70
 Enter Your Number Here: 40
 40
-Your Average Is 66.33333333333333
+Enter Your Number Here: 60
+60
+Your Average Is 
+ 56.666666666666664
+PROGRAM 2 
+
 Enter Your Gross Income: 200000
 200000.0
 How Many Dependants Do You Have: 3
 3.0
 Deduction For Dpendants 9000.0
 Taxable Income:  181000.0
-Tax You Would Have To Pay:  40000.0
+Tax You Would Have To Pay: 
+ 40000.0
+PROGRAM 3 
+
 State Your SID: 
 21105063
 State Your NAME: 
@@ -29,16 +39,28 @@ ECE
 State Your CGPA: 
 8.0
 [21105063, 'Hitin Bhagat', 'M', 'ECE', 8.0]
+. 
+
+PROGRAM 4 
+
 First Student Marks: 
-89
+64
 Second Student Marks: 
 80
 Third Student Marks: 
-90
+93
 Fourth Student Marks: 
-50
+67
 Fifth Student Marks: 
 44
-[44, 50, 80, 89, 90]
+[44, 64, 67, 80, 93]
+. 
+
+PROGRAM 5(A) 
+
 ['Red', 'Green', 'White', 'Pink', 'Yellow']
+. 
+
+PROGRAM 5(B) 
+
 ['Red', 'Green', 'White', 'Purple', 'Yellow']

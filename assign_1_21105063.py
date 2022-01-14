@@ -1,7 +1,7 @@
-#ASSIGNMENT 1
+print('ASSIGNMENT 1 \n')
 
 
-#PROGRAM 1
+print('PROGRAM 1 \n')
 
 a=input('Enter Your Number Here: ')
 print(a)
@@ -12,9 +12,10 @@ print(c)
 a=int(a)
 b=int(b)
 c=int(c)
-print('Your Average Is' , (a+b+c)/3)
+print('Your Average Is \n' , (a+b+c)/3)
 
-#PROGRAM 2
+
+print('PROGRAM 2 \n')
 
 a=float(input('Enter Your Gross Income: '))
 print(a)
@@ -25,9 +26,9 @@ print('Deduction For Dpendants', c)
 d=float(a-10000-c)
 print('Taxable Income: ', d)
 e=float((a*1)/5)
-print('Tax You Would Have To Pay: ', e)
+print('Tax You Would Have To Pay: \n', e)
 
-#PROGRAM 3
+print('PROGRAM 3 \n')
 
 a=int(input('State Your SID: \n'))
 b=str(input('State Your NAME: \n'))
@@ -38,8 +39,9 @@ e=float(input('State Your CGPA: \n'))
 
 f=[a,b,c,d,e]
 print(f)
+print('. \n')
 
-#PROGRAM 4
+print('PROGRAM 4 \n')
 
 m1=int(input('First Student Marks: \n'))
 m2=int(input('Second Student Marks: \n'))
@@ -49,14 +51,15 @@ m5=int(input('Fifth Student Marks: \n'))
 a=[m1,m2,m3,m4,m5]
 a.sort()
 print(a)
+print('. \n')
 
-#PROGRAM 5(A)
+print('PROGRAM 5(A) \n')
 
 a=['Red','Green','White','Black','Pink','Yellow']
 a.remove('Black')
 print(a)
-
-#PROGRAM 5(B)
+print('. \n')
+print('PROGRAM 5(B) \n')
 
 a=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 a[3:5]=[ 'Purple']
